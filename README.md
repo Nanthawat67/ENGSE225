@@ -314,3 +314,51 @@ d4e1933 feat: evolve inventory system to v2.0.0
 เป้าหมายของโครงการคือการนำแนวคิด **Software Evolution and Maintenance** มาใช้กับระบบที่มีอยู่จริง โดยไม่ได้มุ่งเน้นเพียงการเพิ่มฟังก์ชัน แต่รวมถึงการปรับปรุงโครงสร้างซอฟต์แวร์ การลดความซับซ้อน การเพิ่มความสามารถในการทดสอบ และการสร้าง Safety Net เพื่อให้ระบบสามารถแก้ไขและพัฒนาต่อได้อย่างปลอดภัย
 
 **ENGSE225 — Software Evolution and Maintenance**
+
+---
+
+## 15. ผลทดสอบ
+
+1
+
+<img width="633" height="340" alt="image" src="https://github.com/user-attachments/assets/b1f7fcb7-bb6d-4424-959c-3c6af69eff7c" />
+
+
+2
+
+<img width="636" height="300" alt="image" src="https://github.com/user-attachments/assets/095b5f99-2df7-4139-a365-b9828b553ab4" />
+
+
+3
+
+<img width="634" height="616" alt="image" src="https://github.com/user-attachments/assets/dc121a70-455b-4b05-bf80-9d34fbb26a51" />
+
+
+4
+
+<img width="633" height="621" alt="image" src="https://github.com/user-attachments/assets/79251c4c-1145-4832-89d4-5af6074b4c69" />
+
+
+5
+
+<img width="629" height="583" alt="image" src="https://github.com/user-attachments/assets/50e4b5a4-bfe2-4c2f-ab42-707dc26321ee" />
+
+
+6
+
+<img width="628" height="584" alt="image" src="https://github.com/user-attachments/assets/6ea73aca-44d5-43d7-9cbb-efe42d21cfac" />
+
+
+7
+
+<img width="633" height="315" alt="image" src="https://github.com/user-attachments/assets/8d1bd46d-3fc2-4416-b9f7-98fe5c7fb96b" />
+
+
+8
+
+<img width="597" height="200" alt="image" src="https://github.com/user-attachments/assets/30e39826-a20c-4ed6-851b-2da401b0c4c0" />
+
+
+9
+
+<img width="217" height="195" alt="image" src="https://github.com/user-attachments/assets/f9059cf4-9c23-496b-a5ef-816d61332c29" />
