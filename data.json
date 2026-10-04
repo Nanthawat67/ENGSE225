@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "products": [
+    {
+      "product_id": 1,
+      "name": "Keyboard",
+      "quantity": 12,
+      "reorder_point": 5,
+      "barcode": "KB001"
+    },
+    {
+      "product_id": 2,
+      "name": "Mouse",
+      "quantity": 4,
+      "reorder_point": 5,
+      "barcode": "MS001"
+    },
+    {
+      "product_id": 3,
+      "name": "USB Cable",
+      "quantity": 20,
+      "reorder_point": 5,
+      "barcode": "USB001"
+    },
+    {
+      "product_id": 4,
+      "name": "Monitor",
+      "quantity": 3,
+      "reorder_point": 3,
+      "barcode": "MON001"
+    }
+  ]
+}

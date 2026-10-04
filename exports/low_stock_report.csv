@@ -1,0 +1,3 @@
+﻿product_id,name,barcode,quantity,reorder_point
+2,Mouse,MS001,4,5
+4,Monitor,MON001,3,3
